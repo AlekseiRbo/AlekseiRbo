@@ -19,7 +19,7 @@
           </a>
      </div>  
         <div>
-            :hammer_and_wrench: Languages and Tools :
+            :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 
         </div>
             <div>
                   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40"     height="40"/>&nbsp;
@@ -34,8 +34,12 @@
                   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
                   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp   
             </div>
-  
-    
+        <div>
+              :fire: my Stats :fire:
+        </div>
+        <div>
+              [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlekseiRbo&theme=soft-green&hide_border=true&sideLabels=6AEBE0)](https://git.io/streak-stats)
+        </div>
   
   
      
