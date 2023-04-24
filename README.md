@@ -9,8 +9,10 @@
           <a href="https://t.me/Aleksei_qa">
               <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=DodgerBlue" alt="Telegram Badge"/> </a>
           <a href="https://vk.com/id596343232">
-              <img src="https://img.shields.io/badge/VKontakte-black?style=for-the-badge&logo=vk&logoColor=DodgerBlue" alt="vk Badge"/> </a>
+              <img src="https://img.shields.io/badge/VKontakte-black?style=for-the-badge&logo=vk&logoColor=DodgerBlue" alt="VKontakte Badge"/> </a>
           <a href="https://discord.gg/JnEChbmD">
+<!--               <img src="https://img.shields.io/badge/VKontakte-black?style=for-the-badge&logo=vk&logoColor=DodgerBlue" alt="vk Badge"/> </a>
+          <a href="https://discord.gg/JnEChbmD"> -->
               <img src="https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord&logoColor=SteelBlue" alt="discord Badge"/> </a>  
       </div>  
       <div>
