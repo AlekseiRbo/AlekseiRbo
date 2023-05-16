@@ -1,6 +1,15 @@
 <div id="header" align="center">
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
+      <div>
+      Hello everyone! 
+      </div>
+      <div>
+      Welcome to the repository of my knowledge and skills. 
+      </div>
+      <div>
+      Recently, I have been studying QA Engineer. In the meantime, I continue to work with strict documentation in a large team, which helps to develop logical abilities, the ability to quickly switch to various tasks and effectively find solutions. I can organize my time. I have the potential and desire for additional challenges, I want to keep the fire in my eyes and develop further, because I get real pleasure from doing quality work for the sake of product quality.
+      </div>
       <div id="badges">
           <a href="https://www.linkedin.com/in/aleksei-rbo-8a357b271/">
               <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/></a>
