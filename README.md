@@ -3,13 +3,12 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="150"/>
   </img>
   <div>
-    Hello everyone! 
+    Hello everyone!
   </div>
-  <div></div>
+  <br/>
   <div>
     Welcome to the repository of my knowledge and skills. 
   </div>
-  <div></div>
   <div>
     Recently, I have been studying QA Engineer. In the meantime, I continue to work with strict documentation in a large team, which helps to develop logical abilities, the ability to quickly switch to various tasks and effectively find solutions. I can organize my time. I have the potential and desire for additional challenges, I want to keep the fire in my eyes and develop further, because I get real pleasure from doing quality work for the sake of product quality.
   </div>
