@@ -13,11 +13,11 @@
   <div>
     Recently, I have been studying QA Engineer. In the meantime, I continue to work with strict documentation in a large team, which helps to develop logical abilities, the ability to quickly switch to various tasks and effectively find solutions. I can organize my time. I have the potential and desire for additional challenges, I want to keep the fire in my eyes and develop further, because I get real pleasure from doing quality work for the sake of product quality.
   </div>
-  <div></div> 
+  <br/>
   <div>
-    :hammer_and_wrench: Languages and Tools :hammer_and_wrench: 
+    :hammer_and_wrench: Languages & Tools :hammer_and_wrench: 
   </div>
-  <div></div>
+  <br/>
   <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40"     height="40"/>&nbsp;
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
@@ -31,10 +31,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp   
   </div>
+  <br/>
   <div>
     If you have a job offer for me, or you are a startup that is recruiting ambitious and hardworking employees, or you just want to chat with me, follow the links below. I'm waiting for you.
   </div>
-  <div></div>
+  <br/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/aleksei-rbo-8a357b271/">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/></a>
