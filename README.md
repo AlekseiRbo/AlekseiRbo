@@ -34,6 +34,7 @@
   <div>
     If you have a job offer for me, or you are a startup that is recruiting ambitious and hardworking employees, or you just want to chat with me, follow the links below. I'm waiting for you.
   </div>
+  <div></div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/aleksei-rbo-8a357b271/">
       <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" alt="LinkedIn Badge"/></a>
